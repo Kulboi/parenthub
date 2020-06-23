@@ -1,0 +1,13 @@
+@import './views.scss';
+@import './components.scss';
+@import './variables.scss';
+
+// Buttons
+.btn {
+  border-radius: 1px;
+}
+
+.btn-primary {
+  background-color: $color-primary;
+  border-color: $color-primary;
+}
